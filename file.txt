@@ -1,3 +1,6 @@
 This is my GitHub practical file
 updated from github
+main
+this change is from feature branch
 this change is from main branch
+ feature-branch
